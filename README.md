@@ -73,7 +73,7 @@ Type `q` to end the session and print the usage report. The local Hugging Face t
 | --- | --- | --- |
 | `MODEL_NAME` | `openai/gpt-oss-20b` | Groq-hosted response model |
 | `TOKENIZER_NAME` | `meta-llama/Llama-3.1-8B` | Local input token counting |
-| `PROMPT_TOKEN_LIMIT` | `10` | Small learning/demo limit per user input |
+| `PROMPT_TOKEN_LIMIT` | `100` | Small learning/demo limit per user input |
 | `DAILY_TOKEN_LIMIT` | `10,000` | Token budget for the **current run** |
 
 ## 📝 Limitations
