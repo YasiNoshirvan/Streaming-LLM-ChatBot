@@ -12,7 +12,7 @@ MODEL_NAME = "openai/gpt-oss-20b" # Main model used through the Groq OpenAI-comp
 
 TOKENIZER_NAME = "meta-llama/Llama-3.1-8B"  # Tokenizer used only for counting user prompt tokens
 
-PROMPT_TOKEN_LIMIT = 10 # Maximum number of tokens allowed in a single user prompt
+PROMPT_TOKEN_LIMIT = 100 # Maximum number of tokens allowed in a single user prompt
 
 DAILY_TOKEN_LIMIT = 10_000  # Maximum API token usage allowed during the session
 
