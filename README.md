@@ -1,4 +1,4 @@
-# 💬 Streaming LLM Chatbot
+### 💬 Streaming LLM Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![Groq](https://img.shields.io/badge/LLM-Groq-F55036) ![Transformers](https://img.shields.io/badge/Tokenizer-Transformers-FFD21E) ![Type](https://img.shields.io/badge/Type-Educational%20Project-informational)
 
